@@ -1,0 +1,10 @@
+# MATLAB / Simulink Ignore List
+*.asv
+*.autosave
+*.slxc
+slprj/
+*.mex*
+*.mat
+
+# Keep the project definition, but ignore local user settings
+resources/project/user/
