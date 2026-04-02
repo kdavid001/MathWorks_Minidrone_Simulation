@@ -8,7 +8,7 @@ This repository contains the perception and control algorithms developed for the
 
 The core focus of this build was transitioning from raw algorithmic logic into formal simulation environments, bridging computer vision with classical control theory.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Environment:** MATLAB & Simulink
 * **Logic & State Management:** Stateflow
 * **Perception Engine:** Computer Vision Toolbox (Image Processing, Line Detection)
