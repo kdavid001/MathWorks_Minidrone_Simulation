@@ -1,6 +1,7 @@
 # 🚁 MathWorks Minidrone Autonomous Flight Controller
 
-![minidrone-ezgif com-optimize](https://github.com/user-attachments/assets/55a51952-165a-4ee1-9409-41d839476116)
+https://github.com/user-attachments/assets/5d580704-731a-4dab-a5cb-c39fb60a286a
+
 *A simulation of the autonomous line-following and waypoint navigation logic.*
 
 ## Overview
